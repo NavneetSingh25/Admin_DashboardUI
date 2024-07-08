@@ -22,8 +22,7 @@ const FAQ = () => {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            malesuada lacus ex, sit amet blandit leo lobortis eget.
+            you are viewing an Admin Dashboard for the one of the best  Cloth Brand of the region.
           </Typography>
         </AccordionDetails>
       </Accordion>

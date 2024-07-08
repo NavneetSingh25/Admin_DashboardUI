@@ -4,7 +4,7 @@ export const geoFeatures = {
     {
       type: "Feature",
       properties: {
-        name: "Afghanistan",
+        name: "Australia",
       },
       geometry: {
         type: "Polygon",
